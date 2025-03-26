@@ -12,7 +12,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently pursuing a Technical Degree in Programming (in progress).
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV | RESUME](https://drive.google.com/file/d/1K7C6VmoI7JJ4Yj2iw_03DhzcPxL03DK7/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV | RESUME](https://drive.google.com/file/d/1VvYUW4YYbqGALq8Mf-XWf3K-A2Pt7Axl/view?usp=sharing).
 - :boom: You can visit [My LinkedIn](https://www.linkedin.com/in/diego-olivera-a57792198/).
 <br>
 
