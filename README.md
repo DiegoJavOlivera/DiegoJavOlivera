@@ -12,7 +12,7 @@
 - 💻 **Backend & Fullstack Developer Jr**
 - 🧠 Strong focus on backend development, API design, and business logic
 - 🚀 Experience building complete applications (backend, frontend & mobile)
-- 📬 Open to new job opportunities — [MY CV | RESUME](https://drive.google.com/file/d/10Uq2CMpZJ2LW58ZJpTkz0uA_BkLR8l5J/view)
+- 📬 Open to new job opportunities — [MY CV | RESUME](https://drive.google.com/file/d/19WkOZ6UcoZfT1QQ1IVdpU55uhAQXEjmF/view?usp=sharing)
 - 🔗 You can visit [My LinkedIn](https://www.linkedin.com/in/diego-olivera-a57792198/)
 
 <br>
