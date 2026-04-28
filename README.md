@@ -40,10 +40,10 @@
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=plastic&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
 </p>
 
 ---
@@ -51,9 +51,10 @@
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width="50px"></picture> Backend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=plastic&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=plastic&logo=node.js&logoColor=white">
 </p>
 
 ---
